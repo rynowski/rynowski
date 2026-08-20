@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ryan Bonkowski
 
-### 🇺🇸 U.S. Air Force Veteran | 🔒 CompTIA Security+ Certified | 🛰️ Aspiring SATCOM & Space Communications Engineer
+### 🇺🇸 U.S. Air Force Veteran | 🔒 CompTIA Security+ Certified | 🛰️ Aspiring DevOps Engineer
 
 Welcome to my GitHub!
 
@@ -14,7 +14,7 @@ I'm a former **U.S. Air Force Airborne Mission Systems Technician** with a passi
 - 🛰️ Tactical Communications & SATCOM background
 - 🔒 CompTIA Security+ Certified
 - 💻 Computer Science student
-- 🌎 Interested in Software Engineering, Networking, RF Systems, and Space Communications
+- 🌎 Interested in DevOps Engineer, Software Engineering, Networking, RF Systems, and Space Communications
 - 🎯 Career Goal: Become a SATCOM Engineer supporting companies like NASA, SpaceX, Blue Origin, or other aerospace organizations
 
 ---
